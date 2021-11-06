@@ -1,0 +1,15 @@
+package selfProgramming2;
+
+public class Loops {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	int arrayInstance[]= {11, 27, 31, 84, 94};
+	for(int j=0; j < arrayInstance.length; j++) {	
+	
+	System.out.print( j+ "  "+ arrayInstance[j]+ "  ");
+	}
+
+}
+}
