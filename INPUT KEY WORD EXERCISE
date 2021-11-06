@@ -1,0 +1,14 @@
+package selfProgramming2;
+
+public class KeyWordExercise {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+       
+		final int inergervar;
+		inergervar = 34;
+		
+		System.out.println(inergervar);
+	}
+
+}
