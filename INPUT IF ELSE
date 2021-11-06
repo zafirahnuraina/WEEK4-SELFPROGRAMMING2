@@ -1,0 +1,16 @@
+package selfProgramming2;
+
+public class IfElse {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+		boolean boolar = false;
+		if (boolar = false) {
+	    
+	    System.out.println("FALSE"); } else {
+	    System.out.println("TRUE");
+	    }
+	}
+
+}
