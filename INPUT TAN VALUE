@@ -1,0 +1,20 @@
+package selfProgramming2;
+
+public class TanValue {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+		double degrees = 45.0;
+		
+		double radian = Math.toRadians(degrees);
+		
+		double tanvalue = Math.tan(radian);
+		
+		System.out.println("Tan(" + degrees + ") is " + tanvalue);
+		
+		
+		
+	}
+
+}
